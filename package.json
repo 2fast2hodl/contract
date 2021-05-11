@@ -1,0 +1,14 @@
+{
+  "name": "2fast2hodl",
+  "version": "1.0.0",
+  "description": "Strong hands contract.",
+  "author": "2f2h Team",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.2.3",
+    "bn-chai": "^1.0.1",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
